@@ -1,0 +1,201 @@
+#footer {
+    background-color: black;
+    margin-right: 0;
+    margin-left: 0;
+    padding-right: 2.5%;
+    padding-left: 2.5%;
+}
+#footer_all {
+    margin-left: -1%;
+}
+.change_img_color_footer_logo {
+    display: inline-block;
+    overflow: hidden;
+    color: white;
+}
+.change_img_color_footer_logo img {
+    width: 80%;
+    height: 80%;
+    filter: drop-shadow(100px 0);   
+    border-right: 100px solid transparent;
+    position: relative;
+    left: -100px;
+}
+.bottom_2_comm img {
+    float: left;
+}
+.bottom_2_text {
+    float: left;
+    color: white;
+    font-size: 12px;
+    font-size: 1.2rem;
+    line-height: 180%;
+    -webkit-transform-origin-x: 0;
+    -webkit-transform-origin-y: 0;
+    transform: scale(0.9, 0.9);
+}
+#bottom_1 {
+    margin-top: 4%;
+    margin-bottom: 2.5%;
+}
+#bottom_1_link {
+    margin-top: 12%;
+}
+#bottom_1_link a {
+    font-size: 13px;
+    font-size: 1.3rem;
+    text-decoration: none;
+    color: white;
+    margin-right: 5%;
+}
+#bottom_1 span {
+    font-size: 13px;
+    font-size: 1.3rem;
+    color: white;
+    margin-top: 12%;
+}
+#left_cutline {
+    margin-top: 7%;
+}
+#left_cutline img {
+    margin-left: 48%;
+}
+#bottom_2 {
+    margin-top: 2.5%;
+    margin-bottom: 2.5%;
+}
+#bottom_2_contact_us {
+    color: white;
+    font-size: 18px;
+    font-size: 1.8rem;
+    font-weight: bold;
+    letter-spacing: 1px;
+    margin-bottom: 3.5%;
+}
+#bottom_plane_img {
+    position: absolute;
+    top: 8%;
+}
+#bottom_plane_text {
+    position: relative;
+    left: 7%;
+}
+#bottom_local_img {
+    position: absolute;
+    top: 8%;
+}
+#bottom_local_text {
+    position: relative;
+    left: 7%;
+}
+#bottom_qq_img {
+    position: absolute;
+    top: 8%;
+}
+#bottom_qq_text {
+    position: relative;
+    left: 7%;
+}
+#bottom_2_icon2 {
+    margin-bottom: 1%;
+}
+#bottom_2_icon3 {
+    margin-bottom: 1%;
+}
+#bottom_2_icon4 img {
+    padding-left: 0.5%;
+}
+#bottom_2_icon4 span {
+    margin-left: 3%;
+}
+#bottom_message_img {
+    position: absolute;
+    top: 8%;
+}
+#bottom_message_text {
+    position: relative;
+    left: 7%;
+}
+#right_cutline {
+    margin-top: 7%;
+}
+#right_cutline img {
+    margin-left: 48%;
+}
+#bottom_3 {
+    margin-top: 4%;
+}
+#bottom_3_plane {
+    float: right;
+}
+#bottom_3_plane_num {
+    display: block;
+    font-size: 17px;
+    font-size: 1.7rem;
+    font-family: '黑体';
+    color: white;
+    font-weight: bold;
+    transform: scale(1.3, 1.3);
+}
+#online_service_btn {
+    float: right;
+    width: 90px;
+    height: 35px;
+    background-color: rgb(0, 172, 248);
+    margin-bottom: 30%;
+}
+#online_service_btn a {
+    color: white;
+    text-decoration: none;
+    line-height: 35px;
+    margin-left: 2%;
+}
+#focus_us {
+    color: white;
+    text-align: right;
+    margin-left: 10%;
+}
+#bottom_3_bottom {
+    margin-left: 10%;
+}
+#bottom_3_QR_code {
+    background-color: white;
+    padding: 1% 1% 1% 1%;
+    float: right;
+}
+#bottom_3_qq {
+    margin-top: -20%;
+    margin-left: 1.5%;
+}
+#bottom_wechat {
+    top: 70%;
+    right: 65%;
+}
+#bottom_sina {
+    top: 70%;
+    right: 83%;
+}
+#bottom_qq {
+    top: 70%;
+    right: 101%;
+}
+.change_img_color_footer_icon {
+    width: 20px;
+    height: 20px;
+    border: 1px solid rgb(0, 172, 248);
+    border-radius: 100%;
+    overflow: hidden;
+    color: rgb(0, 172, 248);
+
+    float: right;
+    position: absolute;
+}
+.change_img_color_footer_icon img {
+    filter: drop-shadow(20px 0);   
+    border-right: 20px solid transparent;
+    position: relative;
+    left: -20px;
+
+    margin-top: -10%;
+    margin-left: 15%;
+}
